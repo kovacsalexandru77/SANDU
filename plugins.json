@@ -2,8 +2,7 @@
     {
         "iconUrl": "https://ia601901.us.archive.org/27/items/aaa_20250423/aaa.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kovacsalexandru77/SANDU/tree/main/NETPREMIUM",
-        "fileSize": 36641,
+        "repositoryUrl": "https://github.com/kovacsalexandru77/SANDU/tree/main/Netflixsandu",
         "status": 1,
         "authors": [
             "sandu"
@@ -12,7 +11,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 19,
+        "version": 9999999,
         "internalName": "NetflixPremium",
         "description": "Netflix, PrimeVideo Premium,Created Sandu",
         "url": "https://userverify.netmirror.app/?fr3=#%23%23&a=y",
