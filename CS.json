@@ -1,8 +1,0 @@
-{
-  "name": "SANDU(Hungary & English)",
-  "description": "Netflix and Prime -Premium",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/kovacsalexandru77/SANDU/refs/heads/main/plugins.json"
-  ]
-}
