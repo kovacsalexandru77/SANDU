@@ -16,24 +16,5 @@
         "description": "Netflix, PrimeVideo Premium,Created Sandu",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
         "name": "NetflixPremium-Sandu"
-    },
-    {
-        "iconUrl": "https://ia601901.us.archive.org/27/items/aaa_20250423/aaa.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/kovacsalexandru77/SANDU/tree/main/Netflixsandu",
-        "status": 1,
-        "authors": [
-            "sandu"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 9999999,
-       "internalName": "YTS",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
-        "description": "YTS Movies 4K Support (Torrent)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
-        "name": "Sandu-Torrent-Filmek"
     }
 ]
