@@ -30,9 +30,10 @@
             "TvSeries"
         ],
         "version": 9999999,
-        "internalName": "YTS",
-        "description": "Created Sandu",
-        "url": "https://itorrent.ws/",
-        "name": "TORRENT-SANDU"
+       "internalName": "YTS",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.jar",
+        "description": "YTS Movies 4K Support (Torrent)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
+        "name": "Sandu-Torrent-Filmek"
     }
 ]
